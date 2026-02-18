@@ -1,6 +1,6 @@
 # StratasScratch SQL Practice
 
-A personal collection of SQL solutions to practice problems from [StratasScratch](https://www.stratascratch.com/) — a platform with real-world data science and analytics interview questions used by top companies.
+A personal collection of SQL solutions to practice problems from [StratasScratch](https://www.stratascratch.com/). A platform with real-world data science and analytics interview questions used by top companies.
 
 ## About
 
